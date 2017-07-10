@@ -5,7 +5,8 @@ using System.Text;
 
 namespace study
 {
-    class Indexer
+    class IntegerText
     {
+        char[] txtNumber;
     }
 }
