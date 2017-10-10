@@ -22,7 +22,6 @@ class Source
         Target target = new Target();
         target.Do(new GetResultDelegate(this.GetResult));
     }
-
 }
 
 public class main
